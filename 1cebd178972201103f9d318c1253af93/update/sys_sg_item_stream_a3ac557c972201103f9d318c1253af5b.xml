@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="DevApp Scheduled Maintenances">93ac51b4972201103f9d318c1253afcc</data_item>
+        <interleaved_field/>
+        <name>Scheduled Maintenances Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-27 17:00:24</sys_created_on>
+        <sys_id>a3ac557c972201103f9d318c1253af5b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Scheduled Maintenances Item Stream</sys_name>
+        <sys_package display_value="DevApp" source="x_25324_devapp">1cebd178972201103f9d318c1253af93</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DevApp">1cebd178972201103f9d318c1253af93</sys_scope>
+        <sys_update_name>sys_sg_item_stream_a3ac557c972201103f9d318c1253af5b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-27 17:00:24</sys_updated_on>
+        <table/>
+    </sys_sg_item_stream>
+</record_update>

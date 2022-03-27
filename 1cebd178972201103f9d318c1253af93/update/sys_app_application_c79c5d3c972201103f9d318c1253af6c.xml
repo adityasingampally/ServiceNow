@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order/>
+        <roles>x_25324_devapp.dev_app_admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-27 17:00:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c79c5d3c972201103f9d318c1253af6c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DevApp</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="DevApp" source="x_25324_devapp">1cebd178972201103f9d318c1253af93</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DevApp">1cebd178972201103f9d318c1253af93</sys_scope>
+        <sys_update_name>sys_app_application_c79c5d3c972201103f9d318c1253af6c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-27 17:00:06</sys_updated_on>
+        <title>DevApp</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
