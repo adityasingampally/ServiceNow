@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Scheduled Maintenances" max_length="40" name="x_25324_devapp_scheduled_maintenances" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Short Description" mandatory="true" max_length="100" name="short_description" type="string"/>
+    </element>
+</database>
